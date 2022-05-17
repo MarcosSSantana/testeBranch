@@ -1,7 +1,7 @@
 <?php
-    echo 'linha 2';
-    // echo 'desenvolvendo nova feture';
-    // echo 'dentro da dev';
+    echo 'linha 2 <br>';
+    echo 'desenvolvendo nova feture <br>';
+    echo 'dentro da dev <br>';
     // oiasdfasd
     // asjdhiasjdsajdj
     // asdj
